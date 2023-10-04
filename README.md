@@ -1,10 +1,8 @@
-# Farmapp
 # Krishivalah
-
 ## Krishivalah is an android application that have two systems basic and advanced. The basic system consists of the Authentication, weather forecast, dashboard, profile, community, e-commerce, APMC Market Daily Price, Government Services, and daily news. The advanced system consists of crop care and soil testing.
 
 # Abstract
----------
+## Agriculture is an essential source of sustenance. In India, this sector has tremendous opportunities for large-scale employment for villagers. A survey report illustrated the dependency of the Indian population on agriculture is nearly 70%. Technology has become part and parcel of everyone's life and we see every industry making use of it to make new advances and make their work faster and more efficient, but we have observed that the agricultural sector has not been able to take full benefit of the latest technology the world has to offer. According to a report, almost 68% of people in rural areas have smartphones hence To tackle this issue we have built a mobile app that assists Indian farmers in their daily agricultural practices and provides them with easy access to technology. With this project, we provide user assistance with basic things like the weather forecast, APMC-Mandi live rate, latest news related to framing, e-commerce section for farming-related things, community to interact with other farmers, making them aware about latest government schemes, as well as solving complex issues using machine learning like corp recommendations and fertilizer recommendations using random forest algorithm and disease prediction and pest detection using Convolutional Neural Networks (CNN) and MobileNet which will help users identify Diseases and pest which have infected the crop before creating a severe loss in crop production and also generating a yield report which predicts how much yield a farmer should have generated based on their farming area and conditions.
 
 ### Authentication
 We perform authentication using Firebase authentication
@@ -54,7 +52,7 @@ One of the most significant components of this app is the CropCare section, whic
 ![image](https://user-images.githubusercontent.com/106653594/230713759-80fa4dc2-f9c8-4bcd-b24d-3905c17b5273.png)
 
 ### Government Schemes
-To let the user know about government schemes.
+Here the user can get update about the latest government schemes for farmers and agriculture sector.
 
 ![image](https://user-images.githubusercontent.com/106653594/230713799-ab01e2ca-6749-48c4-bd32-0851b88471e2.png)
 
